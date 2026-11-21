@@ -1,10 +1,10 @@
 {
-  "version": "0.4.24",
+  "version": "0.4.25",
   "channel": "pilot",
   "releaseDate": "2026-11-21",
-  "notes": "Corrección del flujo de búsqueda, cancelación y timeout de actualizaciones. Versión piloto para validación interna.",
-  "installerUrl": "https://github.com/flecha7772027/placaflow-updates/releases/download/v0.4.24-piloto/PlacaFlow_Setup_0.4.24_PILOTO.exe",
-  "sha256": "BB6DDEE0B8070EC1AFF4029A16C730C8331192E8C48A883274DBCAF41D8DE728",
-  "size": 3230748,
+  "notes": "Prueba de actualización online completa de PlacaFlow.",
+  "installerUrl": "https://github.com/flecha7772027/placaflow-updates/releases/download/v0.4.25-piloto/PlacaFlow_Setup_0.4.25_PILOTO.exe",
+  "sha256": "D1DE60C829A87A3B24A2D7806A9470697DA8FAC09B16EFC895E38CE8EFCB2BFD",
+  "size": 3230792,
   "mandatory": false
 }
