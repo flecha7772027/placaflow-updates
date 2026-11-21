@@ -1,0 +1,10 @@
+{
+  "version": "0.4.23",
+  "channel": "pilot",
+  "releaseDate": "2026-11-20",
+  "notes": "Primera actualización piloto online de PlacaFlow.",
+  "installerUrl": "https://github.com/flecha7772027/placaflow-updates/releases/download/v0.4.23-piloto/PlacaFlow_Setup_0.4.23_PILOTO.exe",
+  "sha256": "ED56E8072AFDFA2BD7068639CC2662D73DAD16EE558243DCB8E50DF42618C302",
+  "size": 3228923,
+  "mandatory": false
+}
