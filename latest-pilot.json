@@ -1,10 +1,10 @@
 {
-  "version": "0.4.25",
-  "channel": "pilot",
-  "releaseDate": "2026-11-21",
-  "notes": "Prueba de actualización online completa de PlacaFlow.",
-  "installerUrl": "https://github.com/flecha7772027/placaflow-updates/releases/download/v0.4.25-piloto/PlacaFlow_Setup_0.4.25_PILOTO.exe",
-  "sha256": "D1DE60C829A87A3B24A2D7806A9470697DA8FAC09B16EFC895E38CE8EFCB2BFD",
-  "size": 3230792,
-  "mandatory": false
+    "version":  "0.4.26",
+    "channel":  "pilot",
+    "releaseDate":  "2026-11-21",
+    "notes":  "PlacaFlow 0.4.26 PILOTO: optimización general de pedidos pequeños y medianos; actualizador seguro sin cambios.",
+    "installerUrl":  "https://github.com/flecha7772027/placaflow-updates/releases/download/v0.4.26-piloto/PlacaFlow_Setup_0.4.26_PILOTO.exe",
+    "sha256":  "18033640BEC00D2AFD84ABF19B5A5AAA5542F50ECE99DA248BEB3BF5513EBC8C",
+    "size":  3236631,
+    "mandatory":  false
 }
