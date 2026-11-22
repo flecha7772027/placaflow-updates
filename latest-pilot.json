@@ -1,10 +1,10 @@
 {
-    "version":  "0.4.30",
+    "version":  "0.4.31",
     "channel":  "pilot",
     "releaseDate":  "2026-11-22",
-    "notes":  "Prueba online definitiva del actualizador de PlacaFlow 0.4.30.",
-    "installerUrl":  "https://github.com/flecha7772027/placaflow-updates/releases/download/v0.4.30-piloto/PlacaFlow_Setup_0.4.30_PILOTO.exe",
-    "sha256":  "84B45FAC9B8D0AF3471C5016CDA8A8D0752A7053C0C2F8259C5F7827AF258A53",
-    "size":  3239711,
+    "notes":  "Prueba final del sistema de actualización online de PlacaFlow.",
+    "installerUrl":  "https://github.com/flecha7772027/placaflow-updates/releases/download/v0.4.31-piloto/PlacaFlow_Setup_0.4.31_PILOTO.exe",
+    "sha256":  "E7A1849DCD62BE5CDB02B135A38B6C0F9BF618BE67FE26C89317D30B70D8D9BE",
+    "size":  3240942,
     "mandatory":  false
 }
